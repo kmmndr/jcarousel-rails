@@ -6,3 +6,4 @@ testapp/log/*.log
 testapp/tmp/
 testapp/.sass-cache
 Gemfile.lock
+/jcarousel/

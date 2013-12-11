@@ -1,0 +1,3 @@
+[submodule "jcarousel"]
+	path = jcarousel
+	url = git@github.com:jsor/jcarousel.git
